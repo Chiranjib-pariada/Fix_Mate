@@ -1,0 +1,6 @@
+{
+  "name": "FixMate",
+  "description": "FixMate is an AI-powered home-services marketplace connecting customers with verified local service professionals with real-time booking, chat, and smart assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
